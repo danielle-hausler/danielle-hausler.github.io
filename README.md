@@ -2,7 +2,7 @@
 
 ### Research projects
 
-Some research projects that I've worked on during my Msc studies
+Some of the research projects I have done during graduate studies.
 
 #### 1) Incorporating Active learning Methods with Contextualized Sentence Representations (May, 2020)
 
