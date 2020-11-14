@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/danielle-hausler/danielle-hausler.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research projects
 
-### Markdown
+Some research projects that I've worked on during my Msc studies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 1) Incorporating Active learning Methods with Contextualized Sentence Representations
 
-```markdown
-Syntax highlighted code block
+As part of NLP course and together with Uri Katz, we investigated the relation between contextual text representations (Average BERT and Sentence BERT) and the effectiveness of the active learning procedure. Our empirical staudy revealed a relation between the representation type and the AL performance, based on the representation ability to separate classes. 
+!image[images/mr_f1_SenB.png]
+More details could be found in the project's [Incorporating Active learning Methods with Contextualized Sentence Representations.pdf](paper) and [https://github.com/daniellehausler/nlp_active_learning](code).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielle-hausler/danielle-hausler.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
