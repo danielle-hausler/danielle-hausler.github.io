@@ -1,1 +1,13 @@
+logo:   "/images/photo.png?raw=true"
+
+description: 
+  <p align="center">
+  <a href="www.linkedin.com/in/danielle-hausler-027238143">LinkedIn</a> |
+  <a href="https://github.com/daniellehausler">GitHub</a>
+  </p>
+  
+   <p align="justify">
+  M.Sc Statistics student at Tel Aviv university and a Data Scientist at Pagaya
+  </p>
+
 theme: jekyll-theme-minimal
